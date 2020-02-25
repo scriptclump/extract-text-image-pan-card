@@ -1,0 +1,21 @@
+{
+  "name": "extract-text-image",
+  "version": "1.0.0",
+  "description": "Extract the text(PAN card number) from image(PAN card)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tesseract",
+    "image-processing",
+    "text-extraction",
+    "NodeJs-image-extraction",
+    "OCR-Reader"
+  ],
+  "author": "Basant Kumar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
